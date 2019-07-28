@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["to_fmt","Write a [`sval::Value`] to a formatter."],["to_string","Write a [`sval::Value`] to a string."],["to_writer","Write a [`sval::Value`] to a writer."]],"struct":[["End","An error attempting to end a JSON stream."],["Formatter","A stream for writing structured data as json."],["Writer","A stream for writing structured data as json."]]});
